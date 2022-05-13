@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-smarttracker-dev-212645-authRole",
+      "UnauthRoleArn": "arn:aws:iam::484625484547:role/amplify-smarttracker-dev-212645-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::484625484547:role/amplify-smarttracker-dev-212645-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-smarttracker-dev-212645-deployment",
+      "UnauthRoleName": "amplify-smarttracker-dev-212645-unauthRole",
+      "StackName": "amplify-smarttracker-dev-212645",
+      "StackId": "arn:aws:cloudformation:us-east-2:484625484547:stack/amplify-smarttracker-dev-212645/e8354fd0-d274-11ec-8d3b-02bd2192b5ec",
+      "AmplifyAppId": "d2szutwimaod7c"
+    }
+  }
+}
